@@ -1,0 +1,4 @@
+﻿  DayTimeClient.cpp
+E:\learn\Sockets\UNPSamples\DayTimeClient\DayTimeClient\DayTimeClient.cpp(50,18): warning C4101: 'server': unreferenced local variable
+E:\learn\Sockets\UNPSamples\DayTimeClient\DayTimeClient\DayTimeClient.cpp(49,21): warning C4101: 'serv_addr': unreferenced local variable
+  DayTimeClient.vcxproj -> E:\learn\Sockets\UNPSamples\DayTimeClient\Debug\DayTimeClient.exe
